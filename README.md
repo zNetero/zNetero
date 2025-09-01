@@ -10,8 +10,16 @@ Even before starting college, I had already been studying programming on my own,
 I love tackling complex engineering challenges and sharing knowledge with the community.
 
 🌍 Based in Brazil (Fortaleza-CE), but looking forward to traveling the world through coding. <br>
-☁️ Exploring Javascript and Node.js  to build high-performance architectures <br>
-🧠 Currently diving deep into Typescript, and RESTFUL APIs <br><br>
+☁️ Exploring Javascript and Node.js  to build high-performance architectures. <br>
+🧠 Currently diving deep into Typescript, and RESTFUL APIs. <br><br>
+
+
+<div>
+  <a href="https://github.com/zNetero">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zNetero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNetero&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 
 ## ⭐️ More Projects
 
@@ -28,3 +36,5 @@ I love tackling complex engineering challenges and sharing knowledge with the co
     <tr>
   </tbody>
 </table>
+
+
