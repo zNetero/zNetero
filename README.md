@@ -18,7 +18,10 @@ I love tackling complex engineering challenges and sharing knowledge with the co
   <a href="https://github.com/zNetero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zNetero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNetero&layout=compact&langs_count=16&theme=dracula"/>
+
+    ![Snake animation](https://github.com/zNetero/zNetero/blob/output/github-contribution-grid-snake.svg)
 </div>
+
 
 
 ## ⭐️ More Projects
