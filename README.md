@@ -18,11 +18,11 @@ I love tackling complex engineering challenges and sharing knowledge with the co
 <table>
   <tbody>
     <tr>
-      <td><a href="https://github.com/zNetero/Finance-API"><b>🚀 FINANCE CONTROL API</b></a></td>
+      <td><a href="https://github.com/zNetero/Finance-API"><b>💸 FINANCE CONTROL API</b></a></td>
       <td>This API was built with JavaScript, Sequelize, and a PostgreSQL database, following an approach focused on scalability and performance.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/zNetero/API-de-Contatos"><b>⚽️ CONTACT CONTROL API</b></a></td>
+      <td><a href="https://github.com/zNetero/API-de-Contatos"><b>📱 CONTACT CONTROL API</b></a></td>
       <td>This project aims to create, list, and update contacts using Node.js, Express, and a PostgreSQL database.</td>
     </tr>
     <tr>
